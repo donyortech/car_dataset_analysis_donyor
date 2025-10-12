@@ -5,6 +5,12 @@ The script identifies **numerical (continuous)** and **categorical** variables a
 
 ---
 
+## 🏫 University
+
+**Tashkent University of Information Technologies named after Muhammad al-Khwarizmi**
+
+---
+
 ## 📂 Project Structure
 
 | File Name | Description |
