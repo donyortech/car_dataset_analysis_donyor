@@ -1,0 +1,11 @@
+make,model,year,engine_size,horsepower,price,fuel_type,transmission
+Toyota,Corolla,2020,1.8,139,20000,Petrol,Automatic
+Honda,Civic,2019,2.0,158,22000,Petrol,Manual
+Ford,Focus,2021,1.5,180,25000,Diesel,Automatic
+BMW,320i,2022,2.0,255,42000,Petrol,Automatic
+Tesla,Model 3,2023,0.0,283,50000,Electric,Automatic
+Hyundai,Elantra,2020,1.6,147,19000,Petrol,Manual
+Kia,Optima,2018,2.4,185,21000,Petrol,Automatic
+Audi,A4,2022,2.0,261,43000,Petrol,Automatic
+Nissan,Leaf,2021,0.0,147,31000,Electric,Automatic
+Chevrolet,Cruze,2019,1.4,153,17000,Petrol,Manual
