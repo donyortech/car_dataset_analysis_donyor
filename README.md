@@ -1,17 +1,17 @@
-# 🚗 Car Dataset Analysis — DonyorTech
+# Car Dataset Analysis — DonyorTech
 
 This project analyzes a car dataset using **Python** and the **Pandas** library.  
 The script identifies **numerical (continuous)** and **categorical** variables and provides a basic statistical summary of the numerical columns.
 
 ---
 
-## 🏫 University
+## University
 
 **Tashkent University of Information Technologies named after Muhammad al-Khwarizmi**
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 | File Name | Description |
 |------------|--------------|
@@ -21,7 +21,7 @@ The script identifies **numerical (continuous)** and **categorical** variables a
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python 3.x  
 - Pandas  
@@ -29,7 +29,7 @@ The script identifies **numerical (continuous)** and **categorical** variables a
 
 ---
 
-## ⚙️ Installation & Usage
+## Installation & Usage
 
 1. **Clone the repository**
    ```bash
